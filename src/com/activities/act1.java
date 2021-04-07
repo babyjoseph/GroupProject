@@ -8,10 +8,11 @@ package com.activities;
  *
  */
 public class act1 {
-
-	/**
-	 * @param args
-	 */
+	
+	private String pogi;
+	private int size;
+	private int klgs;
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
